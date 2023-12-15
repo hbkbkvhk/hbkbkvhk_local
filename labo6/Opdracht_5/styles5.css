@@ -1,0 +1,14 @@
+.icon-design{
+    padding-left: 30px;
+    width: 100px;
+    height: 100px;
+    background-image: url("images/hondje.png");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: left center ;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
